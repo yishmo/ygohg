@@ -1,0 +1,475 @@
+1 in deck.
+% of at least 1: 12.5
+% of exactly  1: 12.5
+% of exactly  2: 0.0
+% of 3 or more : 0.0
+
+
+2 in deck.
+% of at least 1: 23.72
+% of exactly  1: 22.44
+% of exactly  2: 1.28
+% of 3 or more : 0.0
+-------
+C of at least 1: 11.22
+C of exactly  1: 9.94
+C of exactly  2: 1.28
+C of 3 or more : 0.0
+
+
+3 in deck.
+% of at least 1: 33.76
+% of exactly  1: 30.11
+% of exactly  2: 3.54
+% of 3 or more : 0.1
+-------
+C of at least 1: 10.04
+C of exactly  1: 7.68
+C of exactly  2: 2.26
+C of 3 or more : 0.1
+
+
+4 in deck.
+% of at least 1: 42.71
+% of exactly  1: 35.81
+% of exactly  2: 6.51
+% of 3 or more : 0.39
+-------
+C of at least 1: 8.95
+C of exactly  1: 5.7
+C of exactly  2: 2.97
+C of 3 or more : 0.29
+
+
+5 in deck.
+% of at least 1: 50.66
+% of exactly  1: 39.79
+% of exactly  2: 9.95
+% of 3 or more : 0.93
+-------
+C of at least 1: 7.96
+C of exactly  1: 3.98
+C of exactly  2: 3.44
+C of 3 or more : 0.54
+
+
+6 in deck.
+% of at least 1: 57.71
+% of exactly  1: 42.29
+% of exactly  2: 13.64
+% of 3 or more : 1.78
+-------
+C of at least 1: 7.05
+C of exactly  1: 2.5
+C of exactly  2: 3.69
+C of 3 or more : 0.85
+
+
+7 in deck.
+% of at least 1: 63.93
+% of exactly  1: 43.53
+% of exactly  2: 17.41
+% of 3 or more : 2.99
+-------
+C of at least 1: 6.22
+C of exactly  1: 1.24
+C of exactly  2: 3.77
+C of 3 or more : 1.2
+
+
+8 in deck.
+% of at least 1: 69.4
+% of exactly  1: 43.72
+% of exactly  2: 21.11
+% of 3 or more : 4.57
+-------
+C of at least 1: 5.46
+C of exactly  1: 0.19
+C of exactly  2: 3.69
+C of 3 or more : 1.58
+
+
+9 in deck.
+% of at least 1: 74.18
+% of exactly  1: 43.04
+% of exactly  2: 24.59
+% of 3 or more : 6.55
+-------
+C of at least 1: 4.78
+C of exactly  1: -0.68
+C of exactly  2: 3.49
+C of 3 or more : 1.98
+
+
+10 in deck.
+% of at least 1: 78.34
+% of exactly  1: 41.65
+% of exactly  2: 27.77
+% of 3 or more : 8.93
+-------
+C of at least 1: 4.16
+C of exactly  1: -1.39
+C of exactly  2: 3.17
+C of 3 or more : 2.38
+
+
+11 in deck.
+% of at least 1: 81.95
+% of exactly  1: 39.7
+% of exactly  2: 30.54
+% of 3 or more : 11.71
+-------
+C of at least 1: 3.61
+C of exactly  1: -1.94
+C of exactly  2: 2.78
+C of 3 or more : 2.78
+
+
+12 in deck.
+% of at least 1: 85.06
+% of exactly  1: 37.34
+% of exactly  2: 32.86
+% of 3 or more : 14.86
+-------
+C of at least 1: 3.11
+C of exactly  1: -2.36
+C of exactly  2: 2.32
+C of 3 or more : 3.16
+
+
+13 in deck.
+% of at least 1: 87.73
+% of exactly  1: 34.67
+% of exactly  2: 34.67
+% of 3 or more : 18.39
+-------
+C of at least 1: 2.67
+C of exactly  1: -2.67
+C of exactly  2: 1.81
+C of 3 or more : 3.52
+
+
+14 in deck.
+% of at least 1: 90.0
+% of exactly  1: 31.81
+% of exactly  2: 35.96
+% of 3 or more : 22.24
+-------
+C of at least 1: 2.27
+C of exactly  1: -2.86
+C of exactly  2: 1.28
+C of 3 or more : 3.85
+
+
+15 in deck.
+% of at least 1: 91.93
+% of exactly  1: 28.84
+% of exactly  2: 36.7
+% of 3 or more : 26.39
+-------
+C of at least 1: 1.92
+C of exactly  1: -2.97
+C of exactly  2: 0.74
+C of 3 or more : 4.15
+
+
+16 in deck.
+% of at least 1: 93.54
+% of exactly  1: 25.84
+% of exactly  2: 36.91
+% of 3 or more : 30.79
+-------
+C of at least 1: 1.61
+C of exactly  1: -3.0
+C of exactly  2: 0.21
+C of 3 or more : 4.4
+
+
+17 in deck.
+% of at least 1: 94.89
+% of exactly  1: 22.88
+% of exactly  2: 36.6
+% of 3 or more : 35.41
+-------
+C of at least 1: 1.35
+C of exactly  1: -2.96
+C of exactly  2: -0.31
+C of 3 or more : 4.61
+
+
+18 in deck.
+% of at least 1: 96.0
+% of exactly  1: 20.01
+% of exactly  2: 35.81
+% of 3 or more : 40.18
+-------
+C of at least 1: 1.11
+C of exactly  1: -2.87
+C of exactly  2: -0.8
+C of 3 or more : 4.77
+
+
+19 in deck.
+% of at least 1: 96.91
+% of exactly  1: 17.28
+% of exactly  2: 34.56
+% of 3 or more : 45.06
+-------
+C of at least 1: 0.91
+C of exactly  1: -2.73
+C of exactly  2: -1.24
+C of 3 or more : 4.88
+
+
+20 in deck.
+% of at least 1: 97.64
+% of exactly  1: 14.73
+% of exactly  2: 32.92
+% of 3 or more : 50.0
+-------
+C of at least 1: 0.74
+C of exactly  1: -2.56
+C of exactly  2: -1.65
+C of 3 or more : 4.94
+
+
+21 in deck.
+% of at least 1: 98.23
+% of exactly  1: 12.37
+% of exactly  2: 30.93
+% of 3 or more : 54.94
+-------
+C of at least 1: 0.59
+C of exactly  1: -2.36
+C of exactly  2: -1.99
+C of 3 or more : 4.94
+
+
+22 in deck.
+% of at least 1: 98.7
+% of exactly  1: 10.23
+% of exactly  2: 28.65
+% of 3 or more : 59.82
+-------
+C of at least 1: 0.47
+C of exactly  1: -2.14
+C of exactly  2: -2.28
+C of 3 or more : 4.88
+
+
+23 in deck.
+% of at least 1: 99.06
+% of exactly  1: 8.32
+% of exactly  2: 26.15
+% of 3 or more : 64.59
+-------
+C of at least 1: 0.36
+C of exactly  1: -1.91
+C of exactly  2: -2.5
+C of 3 or more : 4.77
+
+
+24 in deck.
+% of at least 1: 99.34
+% of exactly  1: 6.64
+% of exactly  2: 23.49
+% of 3 or more : 69.21
+-------
+C of at least 1: 0.28
+C of exactly  1: -1.68
+C of exactly  2: -2.66
+C of 3 or more : 4.61
+
+
+25 in deck.
+% of at least 1: 99.54
+% of exactly  1: 5.19
+% of exactly  2: 20.74
+% of 3 or more : 73.61
+-------
+C of at least 1: 0.21
+C of exactly  1: -1.45
+C of exactly  2: -2.74
+C of 3 or more : 4.4
+
+
+26 in deck.
+% of at least 1: 99.7
+% of exactly  1: 3.96
+% of exactly  2: 17.98
+% of 3 or more : 77.76
+-------
+C of at least 1: 0.15
+C of exactly  1: -1.23
+C of exactly  2: -2.77
+C of 3 or more : 4.15
+
+
+27 in deck.
+% of at least 1: 99.8
+% of exactly  1: 2.93
+% of exactly  2: 15.26
+% of 3 or more : 81.61
+-------
+C of at least 1: 0.11
+C of exactly  1: -1.02
+C of exactly  2: -2.72
+C of 3 or more : 3.85
+
+
+28 in deck.
+% of at least 1: 99.88
+% of exactly  1: 2.11
+% of exactly  2: 12.64
+% of 3 or more : 85.14
+-------
+C of at least 1: 0.08
+C of exactly  1: -0.83
+C of exactly  2: -2.62
+C of 3 or more : 3.52
+
+
+29 in deck.
+% of at least 1: 99.93
+% of exactly  1: 1.45
+% of exactly  2: 10.18
+% of 3 or more : 88.29
+-------
+C of at least 1: 0.05
+C of exactly  1: -0.65
+C of exactly  2: -2.46
+C of 3 or more : 3.16
+
+
+30 in deck.
+% of at least 1: 99.96
+% of exactly  1: 0.96
+% of exactly  2: 7.93
+% of 3 or more : 91.07
+-------
+C of at least 1: 0.03
+C of exactly  1: -0.5
+C of exactly  2: -2.25
+C of 3 or more : 2.78
+
+
+31 in deck.
+% of at least 1: 99.98
+% of exactly  1: 0.59
+% of exactly  2: 5.94
+% of 3 or more : 93.45
+-------
+C of at least 1: 0.02
+C of exactly  1: -0.36
+C of exactly  2: -2.0
+C of 3 or more : 2.38
+
+
+32 in deck.
+% of at least 1: 99.99
+% of exactly  1: 0.34
+% of exactly  2: 4.22
+% of 3 or more : 95.43
+-------
+C of at least 1: 0.01
+C of exactly  1: -0.25
+C of exactly  2: -1.71
+C of 3 or more : 1.98
+
+
+33 in deck.
+% of at least 1: 100.0
+% of exactly  1: 0.18
+% of exactly  2: 2.81
+% of 3 or more : 97.01
+-------
+C of at least 1: 0.01
+C of exactly  1: -0.16
+C of exactly  2: -1.41
+C of 3 or more : 1.58
+
+
+34 in deck.
+% of at least 1: 100.0
+% of exactly  1: 0.08
+% of exactly  2: 1.71
+% of 3 or more : 98.22
+-------
+C of at least 1: 0.0
+C of exactly  1: -0.1
+C of exactly  2: -1.1
+C of 3 or more : 1.2
+
+
+35 in deck.
+% of at least 1: 100.0
+% of exactly  1: 0.03
+% of exactly  2: 0.9
+% of 3 or more : 99.07
+-------
+C of at least 1: 0.0
+C of exactly  1: -0.05
+C of exactly  2: -0.8
+C of 3 or more : 0.85
+
+
+36 in deck.
+% of at least 1: 100.0
+% of exactly  1: 0.01
+% of exactly  2: 0.38
+% of 3 or more : 99.61
+-------
+C of at least 1: 0.0
+C of exactly  1: -0.02
+C of exactly  2: -0.52
+C of 3 or more : 0.54
+
+
+37 in deck.
+% of at least 1: 100.0
+% of exactly  1: 0.0
+% of exactly  2: 0.1
+% of 3 or more : 99.9
+-------
+C of at least 1: 0.0
+C of exactly  1: -0.01
+C of exactly  2: -0.28
+C of 3 or more : 0.29
+
+
+38 in deck.
+% of at least 1: 100.0
+% of exactly  1: 0.0
+% of exactly  2: 0.0
+% of 3 or more : 100.0
+-------
+C of at least 1: 0.0
+C of exactly  1: 0.0
+C of exactly  2: -0.1
+C of 3 or more : 0.1
+
+
+39 in deck.
+% of at least 1: 100.0
+% of exactly  1: 0.0
+% of exactly  2: 0.0
+% of 3 or more : 100.0
+-------
+C of at least 1: 0.0
+C of exactly  1: 0.0
+C of exactly  2: 0.0
+C of 3 or more : -0.0
+
+
+40 in deck.
+% of at least 1: 100.0
+% of exactly  1: 0.0
+% of exactly  2: 0.0
+% of 3 or more : 100.0
+-------
+C of at least 1: 0.0
+C of exactly  1: 0.0
+C of exactly  2: 0.0
+C of 3 or more : -0.0
+
+
